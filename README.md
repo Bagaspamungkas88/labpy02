@@ -1,7 +1,7 @@
 # labpy02
 
 soal
-!{img}(gambar/output1.png)
+![img](gambar/output1.png)
 
 #jawab
 
@@ -16,7 +16,7 @@ saya memasukan bilangan 1 : 5 bilangan 2 : 8 bilangan 3 : 4
 
 lalu saya membuat flowchart seperti dibawah
 
-!{img}(gambar/output2.png)
+![img](gambar/output2.png)
 
 setelah itu saya menggunakan syntax dibawah
 
@@ -39,6 +39,6 @@ setelah itu saya menggunakan syntax dibawah
 # output
 dari sytax diatas sehingga saya menghasilkan output
 
-!{img}(gambar/output3.png) 
+![img](gambar/output3.png) 
 
 terimakasih
